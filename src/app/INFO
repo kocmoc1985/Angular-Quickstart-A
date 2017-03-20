@@ -1,0 +1,22 @@
+MAIN FILES:
+
+app.component.ts
+app.module.ts
+
+
+ENABLE 2 WAY BINDING: 
+
+IN: app.component.ts
+
+import {FormsModule} from '@angular/forms'; ***
+
+@NgModule({
+    imports: [
+        BrowserModule,
+        FormsModule ***
+    ],
+    declarations: [AppComponent],
+    bootstrap: [AppComponent]
+})
+
+

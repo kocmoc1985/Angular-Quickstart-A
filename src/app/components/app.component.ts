@@ -1,7 +1,7 @@
 import {Component} from '@angular/core';
 import {Hero} from '../classes/hero';
 import {HeroService} from '../services/hero.service';
-import { OnInit } from '@angular/core';
+import {OnInit} from '@angular/core';
 
 @Component({
     selector: 'my-app',
@@ -85,7 +85,7 @@ export class AppComponent implements OnInit {
     }
 
     getHeroes(): void {
-        this.heroes = this.heroService.getHeroes();
+        this.heroService.getHeroes().then(heroes => this.heroes = heroes);
     }
 
 }

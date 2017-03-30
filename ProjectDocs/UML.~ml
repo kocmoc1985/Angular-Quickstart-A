@@ -53,14 +53,14 @@
 <XPD:REF name="DiagramOwner">xBN9ksI+yUuKCO0Xl31+RQAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="kdsyMvVKWk60XXI9jciVWgAA">
 <XPD:REF name="Diagram">TndAIl9fV0S8Z159H0NSGwAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">21</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">25</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="LkCwYVYxnk6LcoX4S3vt+gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">28</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">12</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">453</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">206</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">8</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">373</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">158</XPD:ATTR>
 <XPD:REF name="Model">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="sslZgtrOtEO1gVEnJI7VtAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="FKansgSsJ0C3NdLOG+I6AwAA">
@@ -88,10 +88,10 @@
 <XPD:OBJ name="OwnedViews[1]" type="UMLClassView" guid="esnfI/n2FUuGUcF3JkvH/AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">36</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">392</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">28</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">444</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">320</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">206</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">222</XPD:ATTR>
 <XPD:REF name="Model">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="LTVvtuQ+A0S7Su1eStJ23wAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="BBv3EX05AUyWeGPIpmSDfwAA">
@@ -119,10 +119,10 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLClassView" guid="IAGNeQSWPU2ijBpnHzq/dwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">804</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">560</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">301</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">126</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">736</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">508</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">348</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">190</XPD:ATTR>
 <XPD:REF name="Model">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="vT4jJkYnEUWXgT/WLLKkpQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="ljQjNy3GdEaW7tR22p0PxAAA">
@@ -184,7 +184,7 @@
 <XPD:ATTR name="Left" type="integer">536</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">168</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">258</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">142</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">158</XPD:ATTR>
 <XPD:REF name="Model">Zt0HJbGg6U6N8zou82YtmAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="NKTfNqCFKECFADUzrOKs2gAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Qe56s7gY20eh7SuSYyrtOQAA">
@@ -211,18 +211,18 @@
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[5]" type="UMLNoteView" guid="5dospuWCjUCsO+SwSIhZUQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">24</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">288</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">149</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">32</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">348</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">199</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">49</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">Uses &quot;Injection&quot; from 
-hero.service.ts
+hero.service.ts &amp; From 'Router'
 </XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[6]" type="UMLNoteLinkView" guid="YLPLNPTJqkOcq5bC/2VmoQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">141,392;110,332</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">153,444;138,396</XPD:ATTR>
 <XPD:REF name="Head">5dospuWCjUCsO+SwSIhZUQAA</XPD:REF>
 <XPD:REF name="Tail">esnfI/n2FUuGUcF3JkvH/AAA</XPD:REF>
 </XPD:OBJ>
@@ -260,7 +260,7 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[8]" type="UMLAssociationView" guid="hq1bPTzDdUS7x+OsK7VqsgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">793,226;908,216;951,368</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">793,230;908,216;951,368</XPD:ATTR>
 <XPD:REF name="Model">0amG/YjRDkW9NHSZ3Gi72AAA</XPD:REF>
 <XPD:REF name="Head">31zA/uVajUS7kPmbUbmNNQAA</XPD:REF>
 <XPD:REF name="Tail">05Q7k4/Prke5CFP2bK2PwQAA</XPD:REF>
@@ -375,7 +375,7 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[10]" type="UMLAssociationView" guid="FiPbcfGmvEKBN6PXMulqrgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">620,93;480,101</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">620,82;400,84</XPD:ATTR>
 <XPD:REF name="Model">oOy7TkgISkOUZJv7QD7KvwAA</XPD:REF>
 <XPD:REF name="Head">LkCwYVYxnk6LcoX4S3vt+gAA</XPD:REF>
 <XPD:REF name="Tail">XfglEgMhzkKt2CT6L6U87gAA</XPD:REF>
@@ -459,7 +459,7 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[11]" type="UMLAssociationView" guid="+VEdXAxkM0mtdCD3hgnn9gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">835,560;676,477</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">736,510;676,478</XPD:ATTR>
 <XPD:REF name="Model">bD3S3pUaR0ObacKll2PBYQAA</XPD:REF>
 <XPD:REF name="Head">SV2+1VuijkyWwXMSfvHPuAAA</XPD:REF>
 <XPD:REF name="Tail">IAGNeQSWPU2ijBpnHzq/dwAA</XPD:REF>
@@ -627,7 +627,7 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[13]" type="UMLAssociationView" guid="jiu4o4Mci0mS3JwaGrdA+AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">645,309;621,396</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">641,325;621,396</XPD:ATTR>
 <XPD:REF name="Model">oQO6DLfaxkeYlYy3T3pJdQAA</XPD:REF>
 <XPD:REF name="Head">SV2+1VuijkyWwXMSfvHPuAAA</XPD:REF>
 <XPD:REF name="Tail">05Q7k4/Prke5CFP2bK2PwQAA</XPD:REF>
@@ -727,18 +727,18 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[16]" type="UMLNoteView" guid="w8Ef5V8uy0qTZ3GiDvtmfwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$004080FF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">28</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">232</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">364</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">258</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">37</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">THIS IS DONE AFTER STEP 5 / SERVICES
+<XPD:ATTR name="Text" type="string">THIS IS DONE AFTER STEP 6 / ROUTING
 </XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[17]" type="UMLClassView" guid="Y9GO14eNzkmHW7H1iTfITgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">356</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">644</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">384</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">552</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">264</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">94</XPD:ATTR>
 <XPD:REF name="Model">p32TzBe0oUaYggaS1HfxYwAA</XPD:REF>
@@ -768,7 +768,7 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[18]" type="UMLAssociationView" guid="1qrCANPafUqhr5fnGiwWkgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">355,474;540,451</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">347,511;540,460</XPD:ATTR>
 <XPD:REF name="Model">YziAx6lnUES2MVKF+I609QAA</XPD:REF>
 <XPD:REF name="Head">SV2+1VuijkyWwXMSfvHPuAAA</XPD:REF>
 <XPD:REF name="Tail">esnfI/n2FUuGUcF3JkvH/AAA</XPD:REF>
@@ -852,7 +852,7 @@ hero.service.ts
 <XPD:OBJ name="OwnedViews[19]" type="UMLAssociationView" guid="qOY0y7hLyUuw8fXymaIMeAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">272,392;360,276;536,254</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">289,444;400,324;536,284</XPD:ATTR>
 <XPD:REF name="Model">xMsN41QakEilZBdT/wk6HAAA</XPD:REF>
 <XPD:REF name="Head">05Q7k4/Prke5CFP2bK2PwQAA</XPD:REF>
 <XPD:REF name="Tail">esnfI/n2FUuGUcF3JkvH/AAA</XPD:REF>
@@ -935,16 +935,75 @@ hero.service.ts
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[20]" type="UMLNoteView" guid="s3UbIwzM8ES2o8TNV+Z1NAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">712</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">732</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">172</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">41</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Dealing with Routing
+<XPD:ATTR name="Left" type="integer">424</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">664</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">275</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Declares &lt;a&gt; tags for Routing.
+
+Routes are declared in &quot;app-routing.module&quot;
 </XPD:ATTR>
 </XPD:OBJ>
+<XPD:OBJ name="OwnedViews[21]" type="UMLNoteLinkView" guid="hhOOTkHTa0S8rbzboDthaAAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">545,664;536,645</XPD:ATTR>
+<XPD:REF name="Head">Y9GO14eNzkmHW7H1iTfITgAA</XPD:REF>
+<XPD:REF name="Tail">s3UbIwzM8ES2o8TNV+Z1NAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[22]" type="UMLClassView" guid="yxklX1m7DUuBRRFhZQYJ2wAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">32</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">184</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">335</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">110</XPD:ATTR>
+<XPD:REF name="Model">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="WnSz4qBgP0S1ponoI7BipwAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="JGYITfRl4k+imb9jHSoalAAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">app-routing.module.ts</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Ky/2mVDbLk2+Y/FBAAnwnwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="PvFcGleXPECzBpwL+tyovwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">22</XPD:ATTR>
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="jdvrZaIHiUegSX+UdKD+qwAA">
+<XPD:REF name="Model">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="n4Bq3VOMPU+5l0HYuBE+rAAA">
+<XPD:REF name="Model">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TemplateParameterCompartment" type="UMLTemplateParameterCompartmentView" guid="FpArRaHOPUabkATHOHDtowAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[23]" type="UMLNoteView" guid="pGwV1eOSMUqxEIg0yO6o3gAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">272</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">340</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">189</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">80</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Note selector &lt;my-heroes&gt;
+is not used anywhere but 
+the component is inserted by 
+&quot;app-routing.module&quot;
+</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[24]" type="UMLNoteLinkView" guid="D/jK6lUAbEKbQjHEGs0Y/gAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">325,419;299,444</XPD:ATTR>
+<XPD:REF name="Head">esnfI/n2FUuGUcF3JkvH/AAA</XPD:REF>
+<XPD:REF name="Tail">pGwV1eOSMUqxEIg0yO6o3gAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">23</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLClass" guid="5gyDGFMgO0+L5m0q0aZyGwAA">
 <XPD:ATTR name="Name" type="string">app.module.ts</XPD:ATTR>
 <XPD:REF name="Namespace">xBN9ksI+yUuKCO0Xl31+RQAA</XPD:REF>
@@ -960,7 +1019,7 @@ hero.service.ts
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">oppwcR2oaUyWQcCirqqwQwAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">9</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="wAhX2hHja06JOHICd0XWDwAA">
 <XPD:ATTR name="Name" type="string">import {NgModule} from '@angular/core';</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
@@ -976,32 +1035,15 @@ hero.service.ts
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="pAyHCJ1GqUaKLR3K5OG1pAAA">
-<XPD:ATTR name="Name" type="string">import {RouterModule} from '@angular/router';</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="kPE13pzhfEeeXJo7sGFV6AAA">
+<XPD:ATTR name="Name" type="string">import {AppRoutingModule} from './app-routing.module';</XPD:ATTR>
 <XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="PVaAqcZKNEW6dGBeybChCwAA">
-<XPD:ATTR name="Name" type="string">import {AppComponent} from './components/app.component';</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="lAnIk4RtB068hwOXFoc1MgAA">
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
 <XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="qxLhJ9sVLUKTi5ivxjp/fwAA">
-<XPD:ATTR name="Name" type="string">import {HeroDetailComponent} from './components/hero-detail.component';</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="0tKSrpPdrU6cJ+cD1/ARFgAA">
-<XPD:ATTR name="Name" type="string">import {HeroesComponent} from './components/heroes.component';</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[7]" type="UMLAttribute" guid="Hi/7kLh2XESoeZJ7pa1MZQAA">
-<XPD:ATTR name="Name" type="string">import {HeroService} from './services/hero.service'</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[8]" type="UMLAttribute" guid="BDP4SQy3/UKMY++oDENImAAA">
+<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="BDP4SQy3/UKMY++oDENImAAA">
 <XPD:ATTR name="Name" type="string">@NgModule({})</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">5gyDGFMgO0+L5m0q0aZyGwAA</XPD:REF>
@@ -1016,7 +1058,7 @@ hero.service.ts
 <XPD:REF name="Views[1]">jTIA6tbt8EmhqmNBf8zLyAAA</XPD:REF>
 <XPD:REF name="Views[2]">WKHPrKZhgUSOQUAU7b+tEAAA</XPD:REF>
 <XPD:REF name="Views[3]">QF9jqZthgEiku6Gyp5nyxgAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">4</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">5</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="PVcZU85H5Ee7LOG1kUjfnwAA">
 <XPD:ATTR name="Name" type="string">export class HeroesComponent</XPD:ATTR>
 <XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
@@ -1056,6 +1098,16 @@ hero.service.ts
 <XPD:REF name="BehavioralFeature">PhfCFRMSo0eQfQnvLIJ/3AAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
+<XPD:OBJ name="Operations[4]" type="UMLOperation" guid="/ZKL6GkAgkKvZ45GOqDXbwAA">
+<XPD:ATTR name="Name" type="string">gotoDetail</XPD:ATTR>
+<XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="gN/2mdZu/UqIS9LgEPiDLwAA">
+<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">/ZKL6GkAgkKvZ45GOqDXbwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">6</XPD:ATTR>
 <XPD:REF name="Associations[0]">ONhWEngMu0KgXeQDaW039AAA</XPD:REF>
 <XPD:REF name="Associations[1]">vyRvlUOs0EuIa/Pb6mRj8QAA</XPD:REF>
@@ -1065,22 +1117,22 @@ hero.service.ts
 <XPD:REF name="Associations[5]">S/rAPjssWECKFYiC7OTWgwAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">5</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="lDRrCcgcMEuu817/Vxnj4QAA">
-<XPD:ATTR name="Name" type="string">import {Component} from '@angular/core';</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">import {Component,OnInit} from '@angular/core';</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="YIWKDLHud0yhiNEKrVYzKgAA">
+<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="q5PZ55ZV/0eCsFsxINKDwgAA">
+<XPD:ATTR name="Name" type="string">import {Router} from '@angular/router';</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="YIWKDLHud0yhiNEKrVYzKgAA">
 <XPD:ATTR name="Name" type="string">import {Hero} from '../classes/hero';</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="rQxqXex57kuUTUvtemKNFQAA">
+<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="rQxqXex57kuUTUvtemKNFQAA">
 <XPD:ATTR name="Name" type="string">import {HeroService} from '../services/hero.service';</XPD:ATTR>
-<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="vyg8ON11xEC7FPPZkxYG4QAA">
-<XPD:ATTR name="Name" type="string">import {OnInit} from '@angular/core';</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
 </XPD:OBJ>
@@ -1107,18 +1159,37 @@ hero.service.ts
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">D+t3H68SLEWMCRqXZq5BnAAA</XPD:REF>
 <XPD:REF name="Associations[1]">2/9rm0y0YEGAEArFjCfJ2gAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">7</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="R7la4rqR9kyZPGHDuEq2hwAA">
-<XPD:ATTR name="Name" type="string">import {Component, Input} from '@angular/core';</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">import {Component, Input,OnInit} from '@angular/core';</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="UPukCns7oUWEnO2hFqfrCAAA">
+<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="nmbUG/V3xEeI6kMU6LV/6AAA">
+<XPD:ATTR name="Name" type="string">import {ActivatedRoute, Params} from '@angular/router';</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="sI5IXjBnmEKVTyDGbx0YzAAA">
+<XPD:ATTR name="Name" type="string">import {Location} from '@angular/common';</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="BeROA2i0P0amtQUMe7XH4AAA">
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkProtected</XPD:ATTR>
+<XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="W4SgK4U9IES5mZlATAf29gAA">
+<XPD:ATTR name="Name" type="string">import {HeroService} from '../services/hero.service';</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="UPukCns7oUWEnO2hFqfrCAAA">
 <XPD:ATTR name="Name" type="string">import {Hero} from '../classes/hero';</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="n1S/LdQuzUes81JgwFpxQQAA">
+<XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="n1S/LdQuzUes81JgwFpxQQAA">
 <XPD:ATTR name="Name" type="string">@Component({})</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:REF name="Owner">otyeN4IBHkqtlBe/m1IrtwAA</XPD:REF>
@@ -1168,7 +1239,7 @@ hero.service.ts
 <XPD:REF name="Views[1]">M3mNZD9DOEa5CZ+h5KQWXwAA</XPD:REF>
 <XPD:REF name="Views[2]">UQejixF5Akukz/lusr7W0gAA</XPD:REF>
 <XPD:REF name="Views[3]">klg1C8kv1UihGDuzRcPEpQAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="CkpqQWokF0W1IN7eaiZT4gAA">
 <XPD:ATTR name="Name" type="string">export class HeroService</XPD:ATTR>
 <XPD:REF name="Owner">Zt0HJbGg6U6N8zou82YtmAAA</XPD:REF>
@@ -1181,6 +1252,21 @@ hero.service.ts
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Promise&lt;Hero[]&gt;</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">AZyS875LKkGMnfThbBRUSQAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[2]" type="UMLOperation" guid="x5AhgkFLPEKQHfWIbf3iDwAA">
+<XPD:ATTR name="Name" type="string">getHero</XPD:ATTR>
+<XPD:REF name="Owner">Zt0HJbGg6U6N8zou82YtmAAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="rhRi6J7j9UOmcjEpokhDAwAA">
+<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">Promise&lt;Hero&gt;</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">x5AhgkFLPEKQHfWIbf3iDwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="txcVEwPKQEy5Q4jqow2A+wAA">
+<XPD:ATTR name="Name" type="string">id</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">number</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">x5AhgkFLPEKQHfWIbf3iDwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">6</XPD:ATTR>
@@ -1520,8 +1606,8 @@ hero.service.ts
 <XPD:REF name="Participant">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">yjZbNJ7t8Eu3tNSo8EuW3wAA</XPD:REF>
-<XPD:REF name="Views[1]">69l9Ct02T0i966LvbPUFiAAA</XPD:REF>
-<XPD:REF name="Views[2]">WK/Sq34U3EK1H4gRzIcpgQAA</XPD:REF>
+<XPD:REF name="Views[1]">WK/Sq34U3EK1H4gRzIcpgQAA</XPD:REF>
+<XPD:REF name="Views[2]">69l9Ct02T0i966LvbPUFiAAA</XPD:REF>
 <XPD:REF name="Views[3]">1ezX/J1t2EWmYVnjDb2bAwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="KDZUR1cxH0+zJKDXx6TW5AAA">
@@ -1529,8 +1615,8 @@ hero.service.ts
 <XPD:REF name="Participant">gKZu6OK3oUSkYo7PD6ux2AAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">8tx+ApnPQkiPCs+NOzOxsgAA</XPD:REF>
-<XPD:REF name="Views[1]">rksMdRKGzEuY3srmBnr73gAA</XPD:REF>
-<XPD:REF name="Views[2]">9oKdG2p9MECBDpnBOC39VQAA</XPD:REF>
+<XPD:REF name="Views[1]">9oKdG2p9MECBDpnBOC39VQAA</XPD:REF>
+<XPD:REF name="Views[2]">rksMdRKGzEuY3srmBnr73gAA</XPD:REF>
 <XPD:REF name="Views[3]">v+Nema/lGU6WQ1tW0XJuwwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -1548,8 +1634,8 @@ hero.service.ts
 <XPD:REF name="Participant">8mWr529aCU6YyD9RvFjrwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">Z7SFREeW10qZutBO7A2RfwAA</XPD:REF>
-<XPD:REF name="Views[1]">M/wsvlgUAk+lIHpDjXOaSAAA</XPD:REF>
-<XPD:REF name="Views[2]">tbS26mksCEGbNQlh6G6QEAAA</XPD:REF>
+<XPD:REF name="Views[1]">tbS26mksCEGbNQlh6G6QEAAA</XPD:REF>
+<XPD:REF name="Views[2]">M/wsvlgUAk+lIHpDjXOaSAAA</XPD:REF>
 <XPD:REF name="Views[3]">+MqZ2w3UZEKyzXOrIcQ2MgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="mP8vWS174UCzM9ih/iAKEgAA">
@@ -1557,9 +1643,39 @@ hero.service.ts
 <XPD:REF name="Participant">Zt0HJbGg6U6N8zou82YtmAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">Z172EZ0UC0yRdLpH86iX+AAA</XPD:REF>
-<XPD:REF name="Views[1]">O4YhhtfcpUOMsoqO25PsvAAA</XPD:REF>
-<XPD:REF name="Views[2]">Ys5AiewPekqZQh8uzRPOUwAA</XPD:REF>
+<XPD:REF name="Views[1]">Ys5AiewPekqZQh8uzRPOUwAA</XPD:REF>
+<XPD:REF name="Views[2]">O4YhhtfcpUOMsoqO25PsvAAA</XPD:REF>
 <XPD:REF name="Views[3]">36nLLD0N1E+E8Y0Eu+HlfAAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[22]" type="UMLClass" guid="Ojg7hwrfS0O4oFmf1UrmHwAA">
+<XPD:ATTR name="Name" type="string">app-routing.module.ts</XPD:ATTR>
+<XPD:REF name="Namespace">xBN9ksI+yUuKCO0Xl31+RQAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">yxklX1m7DUuBRRFhZQYJ2wAA</XPD:REF>
+<XPD:REF name="Views[1]">jdvrZaIHiUegSX+UdKD+qwAA</XPD:REF>
+<XPD:REF name="Views[2]">n4Bq3VOMPU+5l0HYuBE+rAAA</XPD:REF>
+<XPD:REF name="Views[3]">FpArRaHOPUabkATHOHDtowAA</XPD:REF>
+<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="+L+iLsHJ3UGjQMy5a51TawAA">
+<XPD:ATTR name="Name" type="string">export class AppRoutingModule</XPD:ATTR>
+<XPD:REF name="Owner">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
+<XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="iIYwsK/+a0mVTVHzhdRFrgAA">
+<XPD:ATTR name="Name" type="string">import {NgModule} from '@angular/core';</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="V6Akp22ypEGUJ2i+xXjcgwAA">
+<XPD:ATTR name="Name" type="string">import {RouterModule, Routes} from '@angular/router';</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="sL1LvRDCZEeiC2OidCRX6AAA">
+<XPD:ATTR name="Name" type="string">@NgModule({})</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
+<XPD:REF name="Owner">Ojg7hwrfS0O4oFmf1UrmHwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>

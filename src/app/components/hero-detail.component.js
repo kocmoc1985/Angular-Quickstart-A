@@ -20,14 +20,19 @@ var HeroDetailComponent = (function () {
         this.route = route;
         this.location = location;
     }
-    HeroDetailComponent.prototype.goBack = function () {
-        this.location.back();
-    };
     HeroDetailComponent.prototype.ngOnInit = function () {
         var _this = this;
         this.route.params
             .switchMap(function (params) { return _this.heroService.getHero(+params['id']); })
             .subscribe(function (hero) { return _this.hero = hero; });
+    };
+    HeroDetailComponent.prototype.goBack = function () {
+        this.location.back();
+    };
+    HeroDetailComponent.prototype.save = function () {
+        var _this = this;
+        this.heroService.update(this.hero)
+            .then(function () { return _this.goBack(); });
     };
     __decorate([
         core_1.Input(), 

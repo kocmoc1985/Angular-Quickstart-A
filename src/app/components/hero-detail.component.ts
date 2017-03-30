@@ -10,6 +10,7 @@ import 'rxjs/add/operator/switchMap';
 @Component({
     selector: 'hero-detail',
     templateUrl: 'app/templates/hero-detail.component.html',
+    styleUrls:['app/css/hero-detail.component.css'],
 })
 
 export class HeroDetailComponent implements OnInit {

@@ -29,6 +29,10 @@ import {HeroService} from './services/hero.service'
                 path: 'dashboard',
                 component: DashboardComponent
             },
+            {
+                path: 'detail/:id',
+                component: HeroDetailComponent
+            },
         ]),
     ],
     declarations: [ // this one is needed to recognize the "tags" <my-app></my-app>,<my-heroes></>, etc.  
